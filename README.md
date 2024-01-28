@@ -8,6 +8,7 @@ You can experience the thrill of becoming a Pokémon trainer and exploring the w
 2. Gameplay 🕹️
 3. Battles ⚔️
 4. Gym Leader 🌍
+5. Running the game
 
 ## 🎉 Introduction
 In this game, you'll start your journey as a Pokémon trainer. You'll be asked to choose your name and your first Pokémon. The starter Pokémon options are **Bulbasaur**, **Charmander**, **Squirtle**, and **Pikachu**. Each of them has different types, strengths, and weaknesses, so choose wisely!
@@ -23,3 +24,6 @@ If you choose to fight, you can select which move your Pokémon should use. The 
 You can also challenge Gym Leader, he will be a great challenge for you!.
 
 Enjoy your adventure! 🚀
+
+## Running the game
+You will need to open this repo in vscode locally or in the browser, and in terminal write: `poke-sync`
